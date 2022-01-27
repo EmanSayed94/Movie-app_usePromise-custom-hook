@@ -1,0 +1,7 @@
+.cards-container {
+  margin: 20px 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 20rem);
+  justify-content: center;
+  justify-items: center;
+}
